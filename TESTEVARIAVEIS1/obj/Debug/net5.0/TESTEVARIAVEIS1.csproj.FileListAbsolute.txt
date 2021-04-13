@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\bin\Debug\net5.0\TESTEVARIAVEIS1.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\bin\Debug\net5.0\TESTEVARIAVEIS1.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\bin\Debug\net5.0\TESTEVARIAVEIS1.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\bin\Debug\net5.0\TESTEVARIAVEIS1.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\bin\Debug\net5.0\TESTEVARIAVEIS1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\bin\Debug\net5.0\ref\TESTEVARIAVEIS1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\bin\Debug\net5.0\TESTEVARIAVEIS1.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\ref\TESTEVARIAVEIS1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\TESTEVARIAVEIS1\obj\Debug\net5.0\TESTEVARIAVEIS1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\bin\Debug\net5.0\TesteVariaveis2.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\bin\Debug\net5.0\TesteVariaveis2.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\bin\Debug\net5.0\TesteVariaveis2.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\bin\Debug\net5.0\TesteVariaveis2.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\bin\Debug\net5.0\TesteVariaveis2.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\bin\Debug\net5.0\ref\TesteVariaveis2.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\bin\Debug\net5.0\TesteVariaveis2.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\ref\TesteVariaveis2.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\TesteVariaveis2\obj\Debug\net5.0\TesteVariaveis2.genruntimeconfig.cache

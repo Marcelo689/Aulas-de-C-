@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\bin\Debug\net5.0\CheckList.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\bin\Debug\net5.0\CheckList.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\bin\Debug\net5.0\CheckList.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\bin\Debug\net5.0\ref\CheckList.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\bin\Debug\net5.0\CheckList.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\ref\CheckList.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckList\obj\Debug\net5.0\CheckList.genruntimeconfig.cache

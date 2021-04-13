@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\bin\Debug\net5.0\EXERCICIORESOLVIDO1.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\bin\Debug\net5.0\EXERCICIORESOLVIDO1.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\bin\Debug\net5.0\EXERCICIORESOLVIDO1.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\bin\Debug\net5.0\EXERCICIORESOLVIDO1.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\bin\Debug\net5.0\EXERCICIORESOLVIDO1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\bin\Debug\net5.0\ref\EXERCICIORESOLVIDO1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\bin\Debug\net5.0\EXERCICIORESOLVIDO1.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\ref\EXERCICIORESOLVIDO1.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\EXERCICIORESOLVIDO1\obj\Debug\net5.0\EXERCICIORESOLVIDO1.genruntimeconfig.cache

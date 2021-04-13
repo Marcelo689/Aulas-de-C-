@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\bin\Debug\net5.0\CheckListNumero.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\bin\Debug\net5.0\CheckListNumero.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\bin\Debug\net5.0\CheckListNumero.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\bin\Debug\net5.0\CheckListNumero.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\bin\Debug\net5.0\CheckListNumero.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\bin\Debug\net5.0\ref\CheckListNumero.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\bin\Debug\net5.0\CheckListNumero.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\ref\CheckListNumero.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\CheckListNumero\obj\Debug\net5.0\CheckListNumero.genruntimeconfig.cache

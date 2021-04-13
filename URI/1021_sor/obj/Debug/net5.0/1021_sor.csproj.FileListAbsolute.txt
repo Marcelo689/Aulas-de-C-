@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\bin\Debug\net5.0\1021_sor.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\bin\Debug\net5.0\1021_sor.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\bin\Debug\net5.0\1021_sor.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\bin\Debug\net5.0\1021_sor.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\bin\Debug\net5.0\1021_sor.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\bin\Debug\net5.0\ref\1021_sor.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\bin\Debug\net5.0\1021_sor.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\ref\1021_sor.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1021_sor\obj\Debug\net5.0\1021_sor.genruntimeconfig.cache

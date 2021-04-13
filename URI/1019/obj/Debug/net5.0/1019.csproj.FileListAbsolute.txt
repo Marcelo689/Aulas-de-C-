@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\bin\Debug\net5.0\1019.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\bin\Debug\net5.0\1019.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\bin\Debug\net5.0\1019.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\bin\Debug\net5.0\1019.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\bin\Debug\net5.0\1019.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\bin\Debug\net5.0\ref\1019.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\bin\Debug\net5.0\1019.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\ref\1019.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\URI\1019\obj\Debug\net5.0\1019.genruntimeconfig.cache

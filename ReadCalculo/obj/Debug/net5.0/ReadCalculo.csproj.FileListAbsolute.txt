@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\bin\Debug\net5.0\ReadCalculo.exe
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\bin\Debug\net5.0\ReadCalculo.deps.json
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\bin\Debug\net5.0\ReadCalculo.runtimeconfig.json
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\bin\Debug\net5.0\ReadCalculo.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\bin\Debug\net5.0\ReadCalculo.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\bin\Debug\net5.0\ref\ReadCalculo.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\bin\Debug\net5.0\ReadCalculo.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ref\ReadCalculo.dll
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.pdb
+C:\Users\Marcelo\Desktop\Senac\csharp\ReadCalculo\obj\Debug\net5.0\ReadCalculo.genruntimeconfig.cache
